@@ -1,9 +1,10 @@
 const account_Id = 1445532; // To declare constant
 let accountEmail = "hitesh@google.com"; // To Declare Variables
 var accountPassword = "12345";  // To Declare Variables
-accountCity = "Jaipur";
+accountCity = "Jaipur"; // Not use (Bad Practice)
 
 let account_State;
+
 // account_Id = 22; // Constant value not change because it is constant
 
 accountEmail = "Pranavgoel@gmail.com";
